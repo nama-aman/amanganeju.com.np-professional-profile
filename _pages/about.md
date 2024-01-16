@@ -15,7 +15,7 @@ redirect_from:
 </p>
 
 <p align="right">
-  <img align="right" width="100" height="100" src="/images/aman_watermark.png" alt="aman logo">
+  <img width="300" height="300" src="/images/aman_watermark.png" alt="aman logo">
 </p>
 
 
