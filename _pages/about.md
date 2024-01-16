@@ -3,6 +3,10 @@ permalink: /
 title: "Hello there, I'm Aman"
 excerpt: "About me"
 author_profile: true
+profile:
+  align: right
+  image: /images/aman_watermark.png
+  image_circular: false 
 redirect_from: 
   - /about/
   - /about.html
@@ -10,13 +14,8 @@ redirect_from:
 
 "Thinking without due consideration is the downfall of a scientist" - Kurisu Makise, Stein's Gate 
 
-<p align="left">
-  I am a dedicated BSc Physics graduate hailing from the vibrant city of Bhaktapur, Nepal. I had done my Bachelors at Khwopa College, Tribhuvan University, where I cultivated a profound understanding of the fundamental principles governing the universe.
-</p>
 
-<p align="right">
-  <img width="300" height="300" src="/images/aman_watermark.png" alt="aman logo">
-</p>
+I am a dedicated BSc Physics graduate hailing from the vibrant city of Bhaktapur, Nepal. I had done my Bachelors at Khwopa College, Tribhuvan University, where I cultivated a profound understanding of the fundamental principles governing the universe.
 
 
 -----
