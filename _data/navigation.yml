@@ -4,12 +4,9 @@ main:
     url: /files/CV_Aman_Ganeju.pdf
 
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?hl=en&authuser=1&user=VzTtWcsAAAAJ    
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
+  - title: "Projects"
     url: /teaching/    
     
   - title: "Portfolio"
@@ -20,6 +17,9 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "Photography"
+    url: https://nama-aman.github.io/
     
   # - title: "Guide"
   #   url: /markdown/
