@@ -29,9 +29,5 @@ I am currently seeking Ph.D. or MS opportunities in physics.
 - Quantum Field Theory
 
 -----
-## Open to Collaborations:
-I am actively seeking opportunities to further my education and engage in cutting-edge projects related to quantum computation and high-energy physics. My eagerness to delve into challenging research questions aligns with my commitment to pushing the boundaries of knowledge.
-
------
 ## Some Selected Projects and Experience:
 ** work in progress
