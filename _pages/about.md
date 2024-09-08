@@ -15,7 +15,7 @@ redirect_from:
 "Thinking without due consideration is the downfall of a scientist" - Kurisu Makise, Stein's Gate 
 
 
-I am a dedicated BSc Physics graduate hailing from the vibrant city of Bhaktapur, Nepal. I had done my Bachelors at Khwopa College, Tribhuvan University, where I cultivated a profound understanding of the fundamental principles governing the universe.
+I am a BSc Physics graduate from Bhaktapur, Nepal. I completed my Bachelor in Science, Physics at Khwopa College, Tribhuvan University.
 
 
 -----
